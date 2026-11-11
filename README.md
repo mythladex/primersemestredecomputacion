@@ -1,4 +1,4 @@
-# primersemestredecomputacion
+# PRIMER SEMESTRE DE COMPUTACIÓN
 <h1> hice este repositorio para guardar cosas basadas en lo que aprendí en la universidad </h1>
 
 <h2> este es subtítulo chiquito </h2>
